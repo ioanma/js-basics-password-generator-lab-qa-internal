@@ -1,8 +1,8 @@
 window.addEventListener("load", () => {
   // Random lowercase letter
-  var lower = ['a',bcdefghijklmnopqrstuvwxyz];
+  var lower = ['a','b'];
 
-var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
+var randomItem = lower[Math.floor(Math.random()*myArray.length)];
   function randomLower() {
     
   }
